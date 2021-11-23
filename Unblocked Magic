@@ -1,0 +1,8 @@
+~ $ git clone https://github.com/thebatter32/thebatter32.github.io
+~ $ cd thebatter32.github.io
+~ $ echo "Weleome To The Unblocked Magic" > index.html
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main
